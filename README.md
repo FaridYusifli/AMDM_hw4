@@ -70,4 +70,4 @@ In this one we should calculate the shortest path that connects an author chosen
 ### 3b)
 
 
-In this last exercise you have to give as input a list of authors ID, separated by space and the program will give you a dictionary as a result containing the "GroupNumber" between all the nodes and the ID's of the input authors. If a node has no connections with noone nodes in the list it will have 'NaN' as a result, in the other case you'll have a touple containing the minimum between shortest paths (for every node in our input)
+In this last exercise you have to give as input a list of authors ID, separated by space and the program will give you a dictionary as a result containing the "GroupNumber" between all the nodes and the ID's of the input authors. For every node in the input list we will print a tuple containing node number(author_id) and its weight,if there is not connection between 2 particular node it will not printed
